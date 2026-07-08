@@ -1,13 +1,13 @@
 
-# 🚗 AcciDetect - Road Accident Severity Prediction
+# AcciDetect - Road Accident Severity Prediction
 
-## 📌 Overview
+## Overview
 
 AcciDetect is a Machine Learning project that predicts road accident severity (Minor, Major, Deadly, Injured) using accident-related features such as weather, road conditions, vehicle movement, and driver information.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Dataset Used:
 
@@ -15,7 +15,7 @@ Dataset Used:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ Dataset Used:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 - Logistic Regression
 - Decision Tree
@@ -39,19 +39,17 @@ Dataset Used:
 
 ---
 
-## 📊 Results
+## Results
 
 Random Forest and XGBoost achieved approximately **90% accuracy**.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
 python model.py
 ```
 
-## 👨‍💻 Author
 
-Pratik Agarawal
